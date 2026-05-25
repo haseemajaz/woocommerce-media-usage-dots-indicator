@@ -1,4 +1,4 @@
-# Pins & Pearls – Media Dot Indicator
+# Media Dot Indicator
 
 A lightweight WordPress plugin that shows a **green dot** on images in the Media Library when those images are used in WooCommerce products — either as a featured image or inside a product gallery.
 
