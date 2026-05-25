@@ -1,9 +1,11 @@
 <?php
 /**
- * Plugin Name: Pins & Pearls – Media Dot Indicator
- * Description: Shows a green dot on media library images used in WooCommerce products.
- * Version: 1.1
- * Author: Custom
+ * Plugin Name: WooCommerce Media Usage Dots Indicator
+ * Description: Shows a green dot on media library images that are used in WooCommerce products, with a clickable tooltip linking to each product.
+ * Author: Haseem Ajaz
+ * Author URI: https://github.com/haseemajaz
+ * Plugin URI: https://github.com/YOUR_USERNAME/woocommerce-media-usage-dots-indicator
+ * License: GPL-2.0+
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
