@@ -31,7 +31,7 @@ Hovering over the dot reveals a tooltip listing every product that uses the imag
 
 1. Download [`ppearls-dots.php`](ppearls-dots.php)
 2. Upload it to your site's `/wp-content/plugins/ppearls-dots/` directory (create the folder)
-3. Go to **Plugins → Installed Plugins** and activate **Pins & Pearls – Media Dot Indicator**
+3. Go to **Plugins → Installed Plugins** and activate.
 
 ### Option B — Upload via WordPress admin
 
